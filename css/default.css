@@ -125,12 +125,13 @@ section hr{
 
 
 
-section span#solicitar{
+section a#solicitar{
   font-family: "Libre Baskerville", Sans-serif;
   font-size: 14px;
   font-weight: 400;
   text-transform: uppercase;
   line-height: 20px;
+  width: 250px;
   fill: #553B15;
   color: #553B15;
   background-color: #FFFFFF00;
@@ -139,6 +140,9 @@ section span#solicitar{
   border-color: #FBA700;
   border-radius: 3px 3px 3px 3px;
   padding: 12px 20px 11px 20px;
+  display:block;
+  margin: auto;
+  
 
 
 }
